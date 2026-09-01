@@ -4,7 +4,7 @@
   "name": "Arch Linux",
   "description": "Arch Linux rolling for persistent development and system environments.",
   "version": "rolling",
-  "image": "ghcr.io/containerpak/archlinux-cpak@sha256:06175b11acc5a734314487942d748a73ec92b4d81baeed9b26514703ee7bc674",
+  "image": "ghcr.io/containerpak/archlinux-cpak@sha256:9f17241660067456577447c5169e83849f816ae7d5b41f598636411a943b3ddc",
   "binaries": [
     "/bin/bash"
   ],
